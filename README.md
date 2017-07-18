@@ -11,10 +11,14 @@
 >2012/2-2013/7，无锡睿泰科技有限公司
 
 ### 项目经验
->1. [才标网V2.0PC端设计稿](caibiaoV2pc.md) 
->2.[才标网V2.0手机端设计稿](caibiaoV2weixin.md) 
->3.[才标网V2.0APP设计稿](caibiaoV2app.md)
->4.[西交利物浦大学PC端](xj_pc.md)
->5.[西交利物浦大学Mobile端](xj_mobile.md)
->6.[去酒庄PC端设计稿](qujiuzhuang_pc.md)
 
+>1. [才标网V2.0PC端设计稿](caibiaoV2pc.md) 
+>2. [才标网V2.0手机端设计稿](caibiaoV2weixin.md) 
+>3. [才标网V2.0APP设计稿](caibiaoV2app.md)
+>4. [西交利物浦大学PC端](xj_pc.md)
+>5. [西交利物浦大学Mobile端](xj_mobile.md)
+>6. [去酒庄PC端设计稿](qujiuzhuang_pc.md)
+
+### 教育经历
+>2015/9-2017/9，江苏科技大学，人力资源管理，本科
+>2009/9-2012/7，江苏城市职业学院，艺术设计，大专
